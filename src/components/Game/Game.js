@@ -13,7 +13,7 @@ const Game = ({ rows, columns }) => {
     }
 
     return (
-        <div className='Game' >
+        <div>
 
             {
                 gameOver ?
